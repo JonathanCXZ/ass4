@@ -1,0 +1,22 @@
+{
+	"Liger": [{
+			"fact1": "grow at 1kg a day",
+			"fact2": "They were bred on accident",
+			"fact3": "Can run up to 80km",
+			"fact4": "assets/images/liger/pic1.jpg"
+		},
+		{
+			"fact1": "Roar can sound like lion or tiger",
+			"fact2": "Shares more traits with a lion",
+			"fact3": "Can get more diseases",
+			"fact4": "assets/images/liger/pic2.jpg"
+		},
+		{
+			"fact1": "often require c-section to give birth to more ligers",
+			"fact2": "ligers are the biggest cats",
+			"fact3": "They dont mind swimming",
+			"fact4": "assets/images/liger/pic3.jpg"
+		}
+	]
+
+}

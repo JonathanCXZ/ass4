@@ -1,0 +1,22 @@
+{
+	"Wombat": [{
+			"fact1": "their pouches face backwards",
+			"fact2": "Main line of defense is a tougened posterior",
+			"fact3": "They have 3 three species",
+			"fact4": "assets/images/wombat/pic1.jpg"
+		},
+		{
+			"fact1": "appear in ancient art work",
+			"fact2": "were once rhino sized",
+			"fact3": "a group of wombats is called a wisdom",
+			"fact4": "assets/images/wombat/pic2.jpg"
+		},
+		{
+			"fact1": "they like thats hard to digest",
+			"fact2": "they have cubbed shaped poops",
+			"fact3": "Their built for digging holes",
+			"fact4": "assets/images/wombat/pic3.jpg"
+		}
+	]
+
+}
